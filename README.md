@@ -84,7 +84,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact Information 📬
 
-For inquiries, please reach out to [Ajay Babu Kosuri](mailto:ajay.babu@example.com).
+For inquiries, please reach out to [Hari Ganga Bharath Kumar](mailto:gangabharathkumar799@gmail.com).
 
 ---
 
