@@ -88,7 +88,7 @@ For inquiries, please reach out to [Ajay Babu Kosuri](mailto:ajay.babu@example.c
 
 ---
 
-Made with ❤️ by **Ajay Babu Kosuri**
+Made with ❤️ by **Hari Ganga Bharath Kumar**
 ```
 
 This README provides a comprehensive overview of your project with easy-to-follow installation steps, clear descriptions of the features, and structured formatting to make it both visually appealing and informative for visitors.
